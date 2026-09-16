@@ -21,7 +21,6 @@ For full details: https://openfoodfacts.github.io/openfoodfacts-nodejs/modules.h
 - Country
 - Logos & Labels
 
-
 ### Taxonomies
 
 - TaxoNode
@@ -60,4 +59,3 @@ For full details: https://openfoodfacts.github.io/openfoodfacts-nodejs/modules.h
 - User Deletion
 - User Edit
 - Search-A-Licious
-
